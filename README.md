@@ -4,7 +4,8 @@ The group is composed of:
 - Sara Pepe, 2031951
 - Laura Mignella 1920520
 - Valeria Popolla 1918542
-<br>
+
 In this repository you will find: 
+
 - main.ipynb: the notebook with answers for all the question, except the Command Line one.
 - CommandLine.sh: the file that answers to the Command Line Question
